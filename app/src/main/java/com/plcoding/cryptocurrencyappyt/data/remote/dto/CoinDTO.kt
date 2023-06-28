@@ -22,7 +22,6 @@ fun CoinDTO.toCoin(): Coin {
         isNew = isNew,
         name = name,
         rank = rank,
-        symbol = symbol,
-        type = type
+        symbol = symbol
     )
 }
