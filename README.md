@@ -1,10 +1,12 @@
+# Interaction H.M. Mobilité : Projet-Final
+
 # README - CryptocurrencyAppYT - IPPI - UPB
 
 ### 1. MIAN AHISSAN LOUIS GUSTAVE - MASTER 1
 ### 2. DJEDJE NOE ZIAHOUROU - MASTER 1
 
 
-CryptocurrencyAppYT est un projet développé dans le cadre du programme de Master 1. Cette application vise à fournir des informations en temps réel sur différentes cryptomonnaies à partir d'une API externe.
+# PARTIE 1
 
 Ce README.md fournit des réponses aux questions suivantes :
 
@@ -79,6 +81,10 @@ Tâches :
 - Planification du sprint : L'équipe détermine les objectifs du sprint et planifie les tâches nécessaires pour les atteindre.
 - Réunion quotidienne de scrum (Daily Scrum) : Réunion
 
+
+# PARTIE II
+
+CryptocurrencyAppYT est un projet développé dans le cadre du programme de Master 1. Cette application vise à fournir des informations en temps réel sur différentes cryptomonnaies à partir d'une API externe.
 
 ## Auteur
 
