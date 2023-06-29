@@ -89,5 +89,3 @@ CryptocurrencyAppYT est un projet développé dans le cadre du programme de Mast
 ## Auteur
 
 Ce projet a été développé par [Mian Ahissan Louis Gustave & Noe Djedje Wilfried](https://github.com/logustave).
-
-## Licence
