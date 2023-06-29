@@ -26,7 +26,7 @@ class CoinDetailViewModel @Inject constructor(
     }
 
     private fun getCoin(coinId: String){
-        getCoinUseCase(coinId).onEach { resource ->  {
+        getCoinUseCase(coinId).onEach { resource ->
             when(resource){
                 is Resource.Loading -> {
                     _state.value = CoinDetailState(isLoading = true)
@@ -42,6 +42,6 @@ class CoinDetailViewModel @Inject constructor(
                     )
                 }
             }
-        } }.launchIn(viewModelScope)
+        }.launchIn(viewModelScope)
     }
 }
