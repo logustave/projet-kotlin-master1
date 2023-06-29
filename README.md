@@ -79,6 +79,24 @@ Tâches :
 - Planification du sprint : L'équipe détermine les objectifs du sprint et planifie les tâches nécessaires pour les atteindre.
 - Réunion quotidienne de scrum (Daily Scrum) : Réunion
 
+## 7. 8 règles d’or du Design d’interface utilisateur
+
+1. Visibilité du statut du système : L'interface utilisateur doit toujours fournir des informations claires et compréhensibles sur l'état du système, que ce soit en cours de chargement, de traitement ou d'erreur.
+
+2. Correspondance entre le système et le monde réel : L'interface utilisateur devrait utiliser des termes, des concepts et des métaphores familiers aux utilisateurs, afin de rendre l'interaction plus intuitive et cohérente avec leur expérience du monde réel.
+
+3. Contrôle et liberté de l'utilisateur : Les utilisateurs doivent se sentir en contrôle de l'interface et pouvoir revenir en arrière ou annuler une action indésirable sans conséquences indésirables. Il est essentiel de fournir des sorties claires pour guider les utilisateurs dans leurs actions.
+
+4. Cohérence et standards : L'interface utilisateur devrait être cohérente dans sa conception, en suivant les conventions et les standards établis. Cela facilite la compréhension et la prédictibilité pour les utilisateurs, réduisant ainsi la courbe d'apprentissage.
+
+5. Prévention des erreurs : L'interface utilisateur devrait être conçue de manière à prévenir les erreurs autant que possible. Cela peut être réalisé en utilisant des confirmations, des restrictions de saisie et des messages d'erreur clairs pour aider les utilisateurs à éviter les erreurs et à les corriger lorsqu'elles se produisent.
+
+6. Reconnaissance plutôt que la remémoration : L'interface utilisateur devrait minimiser la charge cognitive des utilisateurs en leur permettant de reconnaître des actions et des options plutôt que de se souvenir d'informations spécifiques. Les menus déroulants, les icônes explicites et les étiquettes des champs sont quelques exemples de conception basée sur la reconnaissance.
+
+7. Flexibilité et efficacité d'utilisation : L'interface utilisateur devrait offrir des raccourcis, des options de personnalisation et des fonctionnalités avancées pour les utilisateurs expérimentés, tout en restant accessible et convivial pour les nouveaux utilisateurs. Cela permet d'améliorer l'efficacité globale de l'interaction.
+
+8. Esthétique et design minimaliste : L'interface utilisateur devrait être esthétiquement agréable, avec une disposition épurée et un design minimaliste. En éliminant les éléments visuels superflus et en mettant l'accent sur l'essentiel, l'interface peut favoriser la focalisation de l'utilisateur sur les tâches et les contenus importants.
+
 
 # PARTIE II : Développement d’une Application Android
 
