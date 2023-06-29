@@ -1,12 +1,10 @@
-# Interaction H.M. Mobilité : Projet-Final
-
-# README - CryptocurrencyAppYT - IPPI - UPB
+# Interaction H.M. Mobilité : Projet-Final - IPPI - UPB
 
 ### 1. MIAN AHISSAN LOUIS GUSTAVE - MASTER 1
 ### 2. DJEDJE NOE ZIAHOUROU - MASTER 1
 
 
-# PARTIE 1
+# PARTIE 1 : Questions sur l’Interaction Homme-Machine
 
 Ce README.md fournit des réponses aux questions suivantes :
 
@@ -82,7 +80,7 @@ Tâches :
 - Réunion quotidienne de scrum (Daily Scrum) : Réunion
 
 
-# PARTIE II
+# PARTIE II : Développement d’une Application Android
 
 CryptocurrencyAppYT est un projet développé dans le cadre du programme de Master 1. Cette application vise à fournir des informations en temps réel sur différentes cryptomonnaies à partir d'une API externe.
 
